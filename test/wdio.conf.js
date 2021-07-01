@@ -182,7 +182,7 @@ exports.config = {
         "osVersion": "10",
       },
       "browserName": "Chrome",
-      "browserVersion": "beta",
+      "browserVersion": "latest-beta",
     },
     {
       'bstack:options': {
